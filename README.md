@@ -1,7 +1,7 @@
 
 # EANS-PyTorch
 
-This code is PyTorch implementation for the our paper, [Entity Aware Negative Sampling with Auxiliary Loss of False Negative Prediction for Knowledge Graph Embedding](https://).
+This code is PyTorch implementation for the our paper, [Entity Aware Negative Sampling with Auxiliary Loss of False Negative Prediction for Knowledge Graph Embedding](https://arxiv.org/abs/2210.06242).
 
 ## Environments and Requirements
 
@@ -89,11 +89,14 @@ The training times are measured on a single Nvidia V100 GPU machine.
 
 ## Citation
 
-If you use the codes, please cite our [paper](https://):
+If you use the codes, please cite our [paper](https://arxiv.org/abs/2210.06242):
 
 ```
-@inproceedings{
- 
+@article{je2022entity,
+  title={Entity Aware Negative Sampling with Auxiliary Loss of False Negative Prediction for Knowledge Graph Embedding},
+  author={Je, Sang-Hyun},
+  journal={arXiv preprint arXiv:2210.06242},
+  year={2022}
 }
 ```
 
